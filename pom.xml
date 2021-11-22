@@ -29,6 +29,7 @@
  <modules>
         <module>addressbook_main</module>
     </modules>
+    <dependencies>
     <dependency>
    <groupId>com.sun</groupId>
    <artifactId>tools</artifactId>
@@ -36,4 +37,5 @@
    <scope>system</scope>
    <systemPath>C:\Program Files\Java\jdk1.6.0_29\lib\tools.jar</systemPath>
  </dependency>
+ </dependencies>
 </project>
